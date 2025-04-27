@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Will Baltrus👋
 
 ## About Me
 - 🎓 Data Science Master's Student
@@ -10,7 +10,6 @@
 Here are some projects I've been working on:
 - 
 
-*(Add or swap in your actual projects as you build them.)*
 
 ## Skills
 - 📊 Data Analysis & Visualization (plotly, ggplot2, tableau)
