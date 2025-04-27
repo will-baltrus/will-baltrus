@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**will-baltrus/will-baltrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Data Science Master's Student
+- 📈 Passionate about Machine Learning and Causal Inference
+- 💻 Languages: Python, R, SQL
+- 🌎 Building tools that bridge data and real-world decisions
 
-Here are some ideas to get you started:
+## Projects
+Here are some projects I've been working on:
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(Add or swap in your actual projects as you build them.)*
+
+## Skills
+- 📊 Data Analysis & Visualization (plotly, ggplot2, tableau)
+- 🤖 Machine Learning (scikit-learn, tidymodels)
+- 🔎 Natural Language Processing (spaCy, tidytext)
+- ☁️ Cloud Basics (Azure Certified: AZ-900)
+
+## How to Reach Me
+- 💼 [LinkedIn]([https://linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/will-baltrus-6428b2206/))
+- 📧 Email: baltruswilliam@gmail.com
+
+Thanks for visiting my profile! 🚀
+
